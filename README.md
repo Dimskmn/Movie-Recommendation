@@ -5,7 +5,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 
-Proyek ini mengimplementasikan sistem rekomendasi film berbasis **Deep Learning** menggunakan pendekatan **Neural Collaborative Filtering (NCF)**. Riset ini telah dipublikasikan dalam Jurnal Algoritma (Sekolah Tinggi Teknologi Garut) dan telah melalui proses _peer-review_.
+Proyek ini mengimplementasikan sistem rekomendasi film berbasis **Deep Learning** menggunakan pendekatan **Neural Collaborative Filtering (NCF)**. Riset ini telah dipublikasikan dalam Jurnal Algoritma (Institut Teknologi Garut) dan telah melalui proses _peer-review_.
 
 ## 📄 Publikasi Ilmiah
 
